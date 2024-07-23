@@ -1,0 +1,13 @@
+﻿id,nombre,apellido,casa,titulo,habilidad_combate,estado
+1,Rhaenyra,Targaryen,Targaryen,Princesa de Rocadragón,88,Vivo
+2,Laenor,Velaryon,Velaryon,Heredero de Marcaderiva,75,Vivo
+3,Laena,Velaryon,Velaryon,Dama de Marcaderiva,80,Vivo
+4,Jacaerys,Velaryon,Velaryon/Targaryen,Príncipe,70,Vivo
+5,Lucerys,Velaryon,Velaryon/Targaryen,Príncipe,65,Vivo
+6,Helaena,Targaryen,Targaryen,Princesa,60,Vivo
+7,Hugh,Hammer,N/A,Sembrador de Semillas,85,Vivo
+8,Ulf,White,N/A,Sembrador de Semillas,80,Vivo
+9,Daenerys,Targaryen,Targaryen,Madre de Dragones,85,Vivo
+10,Jon,Snow,Stark/Targaryen,Rey en el Norte,90,Vivo
+11,Aemond,Targaryen,Targaryen,Príncipe,95,Vivo
+12,Daemon,Targaryen,Targaryen,Príncipe Pícaro,98,Vivo

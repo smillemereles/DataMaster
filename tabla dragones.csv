@@ -1,0 +1,13 @@
+﻿id,nombre,edad,color,tamanio,elemento,fuerza,velocidad,inteligencia,lugar_origen,estado
+1,Syrax,30,Amarillo,Grande,Fuego,85,90,88,Rocadragón,Vivo
+2,Seasmoke,20,Gris plateado,Mediano,Fuego,75,95,80,Marcaderiva,Vivo
+3,Meleys,100,Escarlata,Grande,Fuego,95,85,90,Rocadragón,Vivo
+4,Vermax,10,Verde y bronce,Mediano,Fuego,70,85,75,Rocadragón,Vivo
+5,Arrax,5,Blanco y dorado,Pequeño,Fuego,60,90,70,Rocadragón,Vivo
+6,Dreamfyre,80,Azul pálido,Grande,Fuego,85,80,85,Rocadragón,Vivo
+7,Vermithor,100,Bronce,Grande,Fuego,98,75,95,Rocadragón,Vivo
+8,Silverwing,80,Plateado,Grande,Fuego,90,85,90,Rocadragón,Vivo
+9,Drogon,7,Negro y rojo,Grande,Fuego,95,90,85,Desierto Rojo,Vivo
+10,Rhaegal,7,Verde y bronce,Grande,Fuego,85,88,80,Desierto Rojo,Vivo
+11,Vhagar,181,Bronce,Colosal,Fuego,100,75,90,Desembarco del Rey,Vivo
+12,Caraxes,75,Rojo,Grande,Fuego,90,95,85,Rocadragón,Vivo
